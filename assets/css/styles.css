@@ -612,6 +612,11 @@ a {
   width: 28px;
   height: 28px;
   border-radius: 4px;
+  background: #f9f9f9;
+}
+
+.footer .social-icon + .social-icon{
+  margin-left: 28px;
 }
 
 .footer .social-icon:hover {
