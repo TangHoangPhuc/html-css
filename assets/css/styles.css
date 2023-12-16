@@ -41,6 +41,8 @@ a {
   height:calc(100vh - 90px) ;
   background-color: #e6f0ff;
   display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .content {
